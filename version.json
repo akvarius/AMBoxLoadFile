@@ -1,0 +1,16 @@
+{
+    "Stable":  {
+                   "Hash":  "B1DD3077F7FCFEA2DC0D64701C5329DBED7E58B561BE4051D019697B71B23719",
+                   "News":  "AMBoxLoad - Edit settings and schedule in GUI, and check for updates",
+                   "Published":  "22.18 01.01.2024",
+                   "Test":  "Published_Stable",
+                   "Version":  "4.2.32",
+                   "Algorithm":  "SHA256"
+               },
+    "Latest":  {
+                   "Hash":  "7F457C59AE040E350F5B1A36D2A981A8ACF47595BBAB5A107C5EDCD915548E4D",
+                   "News":  "AMBoxLoad - GUI for settings, and check for updates",
+                   "Version":  "4.2.36",
+                   "Algorithm":  "SHA256"
+               }
+}
