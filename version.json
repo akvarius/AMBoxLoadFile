@@ -9,9 +9,9 @@
                },
     "Latest":  {
                    "Hash":  "A9FE651491A5B7ABE831965C6719FABA0F657793B82EE6650EFDB3DCAA270366",
-                   "News":  "AMBoxLoad - GUI for settings, and check for updates. For more information, see https://github.com/akvarius",
+                   "News":  "AMBoxLoad - GUI for settings, and check for updates.x For more information, see https://github.com/akvarius",
                    "Published":  null,
                    "Version":  "4.2.41",
                    "Algorithm":  "SHA256"
                }
-}
+ }
