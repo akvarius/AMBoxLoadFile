@@ -8,10 +8,10 @@
                    "Algorithm":  "SHA256"
                },
     "Latest":  {
-                   "Hash":  "682AC48F1DF1863817BE030957FA1453458684766A82EAF489B007EDB7E53CC6",
+                   "Hash":  "3E38469FB53F1D5CAF36479BB2907CBA7EC5E52B232A96FFEAA67D2733294F5D",
                    "News":  "AMBoxLoad - GUI for settings, and check for updates. For more information, see https://github.com/akvarius",
                    "Published":  "",
-                   "Version":  "4.2.46",
+                   "Version":  "4.2.47",
                    "Algorithm":  "SHA256"
                }
 }
