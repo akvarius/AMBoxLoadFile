@@ -1,17 +1,16 @@
 {
     "Stable":  {
-                   "Hash":  "B1DD3077F7FCFEA2DC0D64701C5329DBED7E58B561BE4051D019697B71B23719",
+                   "Hash":  "BF723DA387FEAC0CE32237D46EA9542EB1944C582A5E3F212307A09DE02BBCDD",
                    "News":  "AMBoxLoad - GUI for settings, and check for updates. For more information, see https://github.com/akvarius",
-                   "Published":  "22.18 01.01.2024",
-                   "Test":  "Published_Stable",
-                   "Version":  "4.2.32",
+                   "Published":  "2024-01-21T22:23:09",
+                   "Version":  "4.2.50",
                    "Algorithm":  "SHA256"
                },
     "Latest":  {
-                   "Hash":  "5505BD003F965BF97C0515DE14430E669E9E14C627A6DCF3B143F2F81F97C9EA",
+                   "Hash":  "15A9ED56556577330C0327CCA6AEB0C8EBFB32165FE7347ABB518BA9EBDA7296",
                    "News":  "AMBoxLoad - GUI for settings, and check for updates. For more information, see https://github.com/akvarius",
-                   "Published":  "2024-01-21T22:26:34",
-                   "Version":  "4.2.51",
+                   "Published":  "2024-01-21T22:30:14",
+                   "Version":  "4.2.52",
                    "Algorithm":  "SHA256"
                }
 }
