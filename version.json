@@ -7,18 +7,18 @@
                    "Algorithm":  "SHA256"
                },
     "Latest":  {
-                   "Published":  "2024-02-05T23:45:49",
-                   "Version":  "4.2.82",
+                   "Published":  "2024-02-05T23:56:20",
+                   "Version":  "4.2.83",
                    "Algorithm":  "SHA256",
                    "Files":  [
                                  "@{File=AMBoxLoad - Copy.ps1; Hash=F4EA4E0E24B6D6F09190BEA6B0C84E3AE315C25D1FD783384C600BBFF855E5F1; Algorithm=SHA256}",
                                  "@{File=AMBoxLoad – Kopi.ps1; Hash=B24E0DB02BE7205DBD44694E693C391EB3138C3B5CBF148B67958349A3F8EAED; Algorithm=SHA256}",
                                  "@{File=AMBoxLoad.cmd; Hash=E793A166F92A88F05D142AA8822F3C13292F370BD123D0CF4FDF19B5EDB77251; Algorithm=SHA256}",
-                                 "@{File=AMBoxLoad.ps1; Hash=5C8282E81D90B53D201F8F6BB0BA434223B01E292E9A087DD3F206F2A6881B2B; Algorithm=SHA256}",
+                                 "@{File=AMBoxLoad.ps1; Hash=415F80E985E438F6431F3B81C31F41F409397B22DA6FC676D7A5CBB072E82BFB; Algorithm=SHA256}",
                                  "@{File=AMBoxLoad__Ref.ps1; Hash=70F1E2054A9BE341A0D195DC8CE2441BBBA763044806A1F8406BE80073CE28A4; Algorithm=SHA256}",
                                  "@{File=Readme.txt; Hash=EDE0846B7943084907E5156C6B762B307BB44868814333B64FC53F3537E7A963; Algorithm=SHA256}"
                              ],
                    "News":  "AMBoxLoad - GUI for settings, and check for updates. For more information, see https://github.com/akvarius",
-                   "Hash":  "038B8BCEB26665A7BCD415854898919C14C6D49942E15D5645B1686B5C3598B0"
+                   "Hash":  "CF918F6CA8FD138638C2E3AE41796A5F6709A28F67BFF088DCD7147AB32BA1C1"
                }
 }
